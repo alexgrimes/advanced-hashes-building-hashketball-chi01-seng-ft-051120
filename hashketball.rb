@@ -104,11 +104,11 @@ def game_hash
         slam_dunks: 0
     },  {
         player_name: "Kemba Walker",
-        number: 15, 
-        shoe: 
-        points:
-        rebounds:
-        assists:
+        number: 33, 
+        shoe: 15,
+        points: 6,
+        rebounds: 12,
+        assists: 12,
         steals:
         blocks:
         slam_dunks:
