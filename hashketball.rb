@@ -1,7 +1,9 @@
 # Write your code here!
 require "pry"
 def game_hash 
-  { }
+  { home: 
+    away: 
+  }
 end
 # def game_hash
 #   {
