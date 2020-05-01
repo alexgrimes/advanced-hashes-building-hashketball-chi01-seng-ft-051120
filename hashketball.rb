@@ -50,11 +50,11 @@ def game_hash
         number: 31,
         shoe: 15,
         points: 19,
-        rebounds: 
-        assists:
-        steals:
-        blocks:
-        slam_dunks:
+        rebounds: 2,
+        assists: 2,
+        steals: 4,
+        blocks: 11, 
+        slam_dunks: 1
       }
     ]
   }   
@@ -93,7 +93,7 @@ def game_hash
         blocks: 5,
         slam_dunks: 5
     },  {
-        player_name: 
+        player_name: "Ben Gordon",
         number:
         shoe: 
         points:
@@ -103,8 +103,8 @@ def game_hash
         blocks:
         slam_dunks:
     },  {
-        player_name: 
-        number:
+        player_name: "Kemba Walker",
+        number: 15, 
         shoe: 
         points:
         rebounds:
