@@ -5,6 +5,7 @@ def game_hash
     home: {
       team_name: "Brooklyn Nets",
       colors: ["Black", "White"],
+      binding.pry 
       players: [
       {
         player_name: "Alan Anderson",
@@ -56,7 +57,7 @@ def game_hash
         steals: 4,
         blocks: 11, 
         slam_dunks: 1
-      }binding.pry 
+      }
     ]
   }
     away: {
