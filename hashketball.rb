@@ -9,8 +9,11 @@ def game_hash
         number:
         shoe: 
         points:
-        rebounds
-        
+        rebounds:
+        assists:
+        steals:
+        blocks:
+        slam_dunks:
         ]
     }
   }
