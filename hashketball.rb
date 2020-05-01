@@ -40,14 +40,14 @@ def game_hash
         number: 1,
         shoe: 19,
         points: 26,
-        rebounds: 
-        assists:
-        steals:
-        blocks:
-        slam_dunks:
+        rebounds: 11,
+        assists: 6,
+        steals: 3,
+        blocks: 8, 
+        slam_dunks: 5
     },  {
-        player_name: 
-        number:
+        player_name: "Jason Terry"
+        number: 
         shoe: 
         points:
         rebounds:
